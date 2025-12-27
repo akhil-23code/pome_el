@@ -1,0 +1,6 @@
+./venv
+.venv
+venv
+.DS_Store
+__pycache__/
+EV_Predictive_Maintenance_Dataset_15min.csv

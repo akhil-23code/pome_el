@@ -1,0 +1,9 @@
+streamlit
+pandas
+scikit-learn
+matplotlib
+seaborn
+# Pin numpy to version 1.x to prevent TensorFlow crashes
+numpy<2.0.0
+# Use standard tensorflow (now supports macOS M1/M2/M3 natively)
+tensorflow
